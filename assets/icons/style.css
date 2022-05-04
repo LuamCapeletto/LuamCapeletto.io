@@ -1,0 +1,161 @@
+@font-face {
+  font-family: 'icomoon';
+  src:  url('fonts/icomoon.eot?cl2l93');
+  src:  url('fonts/icomoon.eot?cl2l93#iefix') format('embedded-opentype'),
+    url('fonts/icomoon.ttf?cl2l93') format('truetype'),
+    url('fonts/icomoon.woff?cl2l93') format('woff'),
+    url('fonts/icomoon.svg?cl2l93#icomoon') format('svg');
+  font-weight: normal;
+  font-style: normal;
+  font-display: block;
+}
+
+[class^="icon-"], [class*=" icon-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'icomoon' !important;
+  speak: never;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-tools:before {
+  content: "\e918";
+}
+.icon-measure:before {
+  content: "\e918";
+}
+.icon-design:before {
+  content: "\e918";
+}
+.icon-ruler1:before {
+  content: "\e918";
+}
+.icon-pencil:before {
+  content: "\e918";
+}
+.icon-building-o:before {
+  content: "\e919";
+}
+.icon-homeassistant:before {
+  content: "\e91a";
+}
+.icon-home_work:before {
+  content: "\e90c";
+}
+.icon-lightbulb:before {
+  content: "\e900";
+}
+.icon-ruler:before {
+  content: "\e90d";
+}
+.icon-map:before {
+  content: "\e90e";
+}
+.icon-copy:before {
+  content: "\e90f";
+}
+.icon-files-empty:before {
+  content: "\e910";
+}
+.icon-file-text:before {
+  content: "\e911";
+}
+.icon-location:before {
+  content: "\e912";
+}
+.icon-map-marker:before {
+  content: "\e912";
+}
+.icon-pin:before {
+  content: "\e912";
+}
+.icon-phone:before {
+  content: "\e913";
+}
+.icon-library:before {
+  content: "\e914";
+}
+.icon-home:before {
+  content: "\e915";
+}
+.icon-home1:before {
+  content: "\e916";
+}
+.icon-home2:before {
+  content: "\e917";
+}
+.icon-box:before {
+  content: "\e90a";
+}
+.icon-direction:before {
+  content: "\e90b";
+}
+.icon-close:before {
+  content: "\e901";
+}
+.icon-facebook:before {
+  content: "\e902";
+}
+.icon-instagram:before {
+  content: "\e903";
+}
+.icon-mail:before {
+  content: "\e904";
+}
+.icon-map-pin:before {
+  content: "\e905";
+}
+.icon-menu:before {
+  content: "\e906";
+}
+.icon-whatsapp:before {
+  content: "\e907";
+}
+.icon-youtube:before {
+  content: "\e908";
+}
+.icon-arrow-up:before {
+  content: "\e91b";
+}
+.icon-diamond:before {
+  content: "\e909";
+}
+/* SEÇÃO REDES SOCIAIS */
+
+.redes-sociais {
+  margin-top: 3rem;
+  display: flex;
+  justify-content: space-between;
+  text-align: center;
+}
+
+.redes-sociais a {
+  color: white;
+  font-size: 1 rem;
+}
+
+.redes-sociais__facebook,
+.redes-sociais__instagram,
+.redes-sociais__linkedin,
+.redes-sociais__github,
+.redes-sociais__whatsapp {
+  background-color:hsl(159 57% 53%);
+  padding: 1rem;
+}
+
+.redes-sociais img {
+  width: 1rem;
+}
+
+.redes-sociais__nome {
+  font-weight: bold;
+  letter-spacing: 0.1rem;
+}
+
